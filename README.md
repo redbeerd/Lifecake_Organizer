@@ -1,2 +1,2 @@
 # Lifecake_Organizer
-Simple python script that can be used to gather and rename all vids and pics from a lifecakedownload in one folder.
+Simple python script for organizing pictures and videos downloaded from Lifecake. The script takes all the files from the diffenrent folders moves them to one folder, and renames them with their date (and a number when mulples accure for one date).
